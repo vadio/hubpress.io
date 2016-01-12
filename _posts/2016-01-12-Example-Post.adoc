@@ -1,3 +1,10 @@
-= This is a test post. Number 1.
+= Example Post
 
-This is a *test*.
+== It begins.
+
+=== As such.
+
+Hi, I'm an example post.
+
+`` what happens if I do this? ``
+
