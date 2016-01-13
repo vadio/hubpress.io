@@ -1,10 +1,15 @@
-= Example Post
+= YAEB (Yet Another Engineering Blog)
 
-== It begins.
+== Welcome
+We're doing (what we think is) some cool stuff at Vadio in the beautiful city of Portland, Oregon. We're building new ways of powering video all over the world-- millions of views every day-- and we'd like to share some of what we've learned with the larger community.
 
-=== As such.
+In the last year, we moved from dedicated hardware to the cloud, we've adopted Docker, Mesos, React, Spark, and a bunch of other amazing technologies. In fact, we've been so busy, I realized we haven't had much of a chance to stand back and look at what we've accomplished.
 
-Hi, I'm an example post.
+My hope is that this blog will give us a chance to do that. Ideally, others will be able to benefit from some of the things we've done wrong and learned from, and we can open up conversations with the larger engineering community that will benefit readers as well as participants.
 
-`` what happens if I do this? ``
+Stay tuned...
+
+Rian
+
+
 
