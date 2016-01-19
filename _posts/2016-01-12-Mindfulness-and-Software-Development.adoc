@@ -22,7 +22,7 @@ When you first hear about the problem, the voice in your head might wander off a
 
 Mindfulness says "here's the situation, what are my options, right now, for addressing it". A mindful developer will ask good questions about the actual situation, not assume that it's like that _other_ time she did something _just_ like this. 
 
-She'll gather sufficient information about requirements, constraints, and priorities before falling into memories of similar projects. She'll accept that this moment in time is unique. Everything, from the problem definition, the context, and the available tools is changing constantly.
+She'll gather sufficient information about requirements, constraints, and priorities before falling into memories of similar projects. She'll accept that this moment in time is unique. Everything-- from the problem definition, the context, and the available tools-- is changing constantly.
 
 === Accepting Change
 By staying present with the situation as it is, you can let go of your fear of change by accepting that everything changes, faster every day. If you find yourself https://medium.com/@wob/the-sad-state-of-web-development-1603a861d29f#.grgatx3km[raging against the way things are changing], it's like fighting against the flow of a river with your bare hands. Technology, like everything, changes constantly. 
