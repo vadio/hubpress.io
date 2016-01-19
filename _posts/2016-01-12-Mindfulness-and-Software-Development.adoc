@@ -1,5 +1,7 @@
 = Mindfulness & Software Development
 
+I'll kick off the blog with a little bit of philosophy that I try to promote here within the Vadio engineering team.
+
 There's a lot of talk in the popular media about mindfulness. A http://www.amazon.com/s/ref=sr_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Ck%3Amindfulness&keywords=mindfulness&ie=UTF8&qid=1453158418&rnid=2941120011[quick search in Amazon's books] will yield you more than sixteen thousand results. What's the big deal, and how does it relate to our practical, real-world endeavor of developing software? 
 
 === What Is It?
@@ -12,13 +14,13 @@ It might be easier to think of mindfulness as what it's not. It's not getting lo
 In short, mindfulness is about seeing things exactly as they are, right now, without unecessary commentary or judgment. Research shows that your visual cortex lights up when you think of a scene just like when you look at one. Your language centers activate when you imagine a conversation just like when you have one. It's just as though you had two projectors shining on the same movie screen with two audio tracks. No wonder we get confused.
 
 === How Does It Relate to Engineering?
-When you're presented with an engineering challenge, you need to face the problem and your options head on with a clear head. You have to hear the description of the problem exactly as it is without assuming, commenting, or judging. Otherwise, you'll limit your options or forego opportunities for no reason other than you're dreaming about a remembered past or an imagined future.
+When you're presented with an engineering challenge, you need to face the problem and your options head on with a clear head. You have to hear the description of the problem exactly as it is, right now, without assuming, commenting, or judging. Otherwise, you'll limit your options or forego opportunities for no reason other than you're dreaming about a remembered past or an imagined future.
 
 When you first hear about the problem, the voice in your head might wander off and add comentary:
 
 - _"If you want this now, I'll bet you'll want that later, and that *never* works. Forget it."_ 
-- _"That's a massive request, I don't know how we'll even get all of that done. Why start?"_
-- _"We just adopted a new stack, now we're doing this? They're just going to change everything every week. Managers and shiny objects!"_
+- _"That's a massive request, I don't know how we'll even get all of that done. It's too much."_
+- _"We just adopted a new stack, now we're using this? They're just going to change everything every week. Managers and shiny objects!"_
 
 Mindfulness says "here's the situation, what are my options, right now, for addressing it". A mindful developer will ask good questions about the actual situation, not assume that it's like that _other_ time she did something _just_ like this. 
 
@@ -34,16 +36,16 @@ Instead of fighting reality, you can accept that and keep learning the way garde
 === How to Develop Mindfulness
 The obvious way to develop mindfulness is through practice. Traditional meditation may be the most direct route to that practice, but it isn't the only way. Focus on what is going on in your head during meetings. Are you really listening to every word? Are you running to the closest experience you remember for familiarity and comfort? Are you strategizing about how to make yourself look good in front of your peers?
 
-Watch yourself when you solve problems in design or debugging. Are you assuming this is exactly like something else you've done? It rarely is. Patterns are very useful, but they can also blind you to the particulars of the specific problem you're working on. Do you feel uncomfortable when new technologies come up? Really examine why you feel that way. What if you could add this tool to your toolbox? Could it bring more enjoyment and efficiency to your work?
+Watch yourself when you solve problems in design or debugging. Are you assuming this is exactly like something else you've done? It rarely is. Patterns are very useful, but they can also blind you to the particulars of the specific problem you're working on. Do you feel uncomfortable when new technologies come up? Really examine why you feel that way. What if you could add this tool to your toolbox? Is it *possible* that it could bring more enjoyment and efficiency to your work?
 
-Every now and then, take a minute just to sit quietly or take a walk, away from your computer and your phone. Really look at where you are, how you feel, what you're thinking. Try to stay present and not get lost in stories about bills you haven't paid, that bug you can't reproduce, or the people you work with. Just for a few minutes, scan your body. How does it feel? Breathe in and out and try to stay with that breath. Feel your feet on the floor, your back against the seat. Listen to the sounds around you without commenting on them. 
+Every now and then, take a bit to just to sit quietly or take a walk, away from your computer and your phone. Really look at where you are, how you feel, what you're thinking. Try to stay present and not get lost in stories about bills you haven't paid, that bug you can't reproduce, or the people you work with. Just for a few minutes, scan your body. How does it feel? Breathe in and out and try to stay focused on that entire breath. It's harder than you might think. Feel your feet on the floor, your back against the seat. Listen to the sounds around you without commenting on them. When your mind wanders off, just notice that and return it to your current experience.
 
-Then, go back and see if the situation doesn't seem a little more clear, more manageable, and less overwhelming.
+Then, after a few minutes, go back and see if the situation doesn't seem a little more clear, more manageable, and less overwhelming.
 
 === The Next Steps
 When you perceive a *lack* of mindfulness in your work, you are already on the road to increasing it. Just being aware of your thoughts leads to greater awareness like a snowball rolling down a hill. When you begin to feel this change taking place, you might want to step your practice up a bit. 
 
-Extend your periods of quiet observation of your mind. Start with a few minutes, and gradually increase these meditation periods. Try applying these ideas when you're walking, driving, or lying in bed. Just watch your mind, and when it runs off on familiar stories, gently bring it back to what's really happening right now. 
+Extend your periods of quiet observation of your mind. Start with a few minutes, and gradually increase these "meditation" periods. Try applying these ideas when you're walking, driving, or lying in bed. Just watch your mind, and when it runs off on familiar stories, gently bring it back to what's really happening right now. 
 
 The key is being easy on yourself. You can't stop your mind from thinking any more than you can stop your ears from hearing. You can learn to focus your hearing on a certain sound, and you can learn to focus your mind on the present. Don't expect to rid yourself of the daydreams or habituated reactions overnight, but increasing your level of mindfulness is a lifetime pursuit that will pay dividends in greater creativity, productivity, and overall happiness.
 
